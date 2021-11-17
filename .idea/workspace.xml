@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3aa32762-338c-4669-be9c-3df23840aa8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ws-wsl-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pnp.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@types-node-npm-16.11.7-1799a0a435-2706403e6e.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@types-prop-types-npm-15.7.4-592896a9fe-ef6e1899e5.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@types-react-npm-17.0.35-8b4fbd1f1d-33e2bf8068.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@types-scheduler-npm-0.16.2-ba3a7d8c68-b6b4dcfeae.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/csstype-npm-3.0.10-e26ef49bb2-20a8fa324f.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/js-tokens-npm-4.0.0-0ac852e9e2-8a95213a5a.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/loose-envify-npm-1.4.0-6307b72ccf-6517e24e0c.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/object-assign-npm-4.1.1-1004ad6dec-fcc6e4ea8c.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/react-npm-17.0.2-99ba37d931-b254cc17ce.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/typescript-npm-4.4.4-3fedcc07a3-89ecb8436b.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/typescript-patch-d95d140154-bd629ad0da.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/install-state.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/releases/yarn-berry.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarnrc.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/pnp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="20z7YHQgGgnof3FKTx2TnJCt3Uj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/screens" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="wsl://Ubuntu-20.04@/home/rmm/.nvm/versions/node/v14.17.1/bin/node" />
+    <property name="nodejs_package_manager_path" value="\\wsl$\Ubuntu-20.04\home\rmm\.nvm\versions\node\v14.17.1\lib\node_modules\yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="yarn:package.json:typescript" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu-20.04\home\rmm\workspace\temp\ws-wsl-test\screens" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3aa32762-338c-4669-be9c-3df23840aa8e" name="Changes" comment="" />
+      <created>1637035608059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637035608059</updated>
+      <workItem from="1637035609124" duration="19000" />
+      <workItem from="1637035747794" duration="149000" />
+      <workItem from="1637035905521" duration="458000" />
+      <workItem from="1637036994293" duration="306000" />
+      <workItem from="1637037330968" duration="54000" />
+      <workItem from="1637128479180" duration="852000" />
+      <workItem from="1637136856815" duration="1617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
