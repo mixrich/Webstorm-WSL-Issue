@@ -5,7 +5,7 @@ This project reproduced weird behavior of Typescript Server for projects which u
 ## The Problem
 1. Open `.yarnrc.yml` and uncomment line `nodeLinker: pnp`
 2. Run `yarn install` in terminal
-3. Open `index.tsx` file. You should see the error about `x` property of `svg` is invalid
+3. Open `test.tsx` file. You should see the error about `x` property of `svg` is invalid
    1. If error does not occur try to open settings and click `save` or try to change anything in file `index.tsx` - some time later the problem will occur.
 You will see the next error:
 ![Example](./screens/pnp.png)
